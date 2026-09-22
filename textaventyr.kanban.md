@@ -10,10 +10,6 @@
 <!-- id: task-1789371029039-86 -->
 <!-- priority: critical -->
 
-#### .lower()
-<!-- id: task-1789370324820-21 -->
-all jämförelse av inmatning sänks till gemener först
-
 #### Flera slut
 <!-- id: task-1789370357795-38 -->
 minst två, och de ska vara olika. Slutar alla vägar likadant har spelarens val inte spelat någon roll
@@ -41,3 +37,7 @@ programmet frågar efter spelarens namn och lagrar det i en variabel
 #### f-strängar
 <!-- id: task-1789370290018-5 -->
 spelarens namn används i minst tre print()-satser
+
+#### .lower()
+<!-- id: task-1789370324820-21 -->
+all jämförelse av inmatning sänks till gemener först
