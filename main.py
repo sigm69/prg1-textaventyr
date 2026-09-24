@@ -42,7 +42,7 @@ if Vänsterellerhöger == ("vänster"):
             spelaellerrulet = input  ("spela eller gå hem").lower()
             if spelaellerrulet == ("spela"):
                 print(randomcard1+randomcard2)
-                print(int("deler-")+randomcardd1+randomcardd2)
+                print(randomcardd1+randomcardd2)
                 hitorstand1 = input("hit or stand").lower()
                 if hitorstand1 ==("hit"):
                     print(randomcard1+randomcard2+randomcard3)
@@ -51,7 +51,7 @@ if Vänsterellerhöger == ("vänster"):
                     if hitorstand2 ==("hit"):
                         print(randomcard1+randomcard2+randomcard3+randomcard4)
                         print(randomcardd1+randomcardd2+randomcardd3+randomcardd4)
-                        hitorstand3 = input ("hit or stand").lower()
+                        hitorstand3 = input ("hit or stand").lower() 
                         if hitorstand3 == ("hit"):
                             print(randomcard1+randomcard2+randomcard3+randomcard4+randomcard5)
                             print(randomcardd1+randomcardd2+randomcardd3+randomcardd4+randomcardd5)
