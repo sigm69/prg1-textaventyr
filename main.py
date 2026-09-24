@@ -97,6 +97,16 @@ if Vänsterellerhöger == ("vänster"):
                         print ("du van 1 miljon")
                     else:
                         print("du förlorade")
-                elif
+                elif spin == ("grön"):
+                    if randomnumber == (14,15):
+                        print("du van 1 miljon")
+                    else:
+                        print("du förlorade")
     else:
         print("VARFÖR DUM IDE DU DOG")
+if Vänsterellerhöger == ("höger"):
+    print("Du tog vägen och kom fram till dit jobb men du måste testa den andra vägen.")
+    if Hey == ("nej"):
+        print("kommer du ihåg din kolega hon kom och dödade dig.")
+    else: 
+        print("du sa hej till din kolega du får en miljon")
